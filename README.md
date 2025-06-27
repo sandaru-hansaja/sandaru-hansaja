@@ -20,7 +20,7 @@
 
 Here are a few of my top projects you can check out:
 
-- 🔗 [🎬 Movie Ticketing System] – Full-stack Spring Boot + React + multithreading
+- 🔗 [🎬 Movie Ticketing System] – Full-stack Node js + React + multithreading
 - 🔗 [👨‍💼 Employee Management (C#)] – Desktop CRUD app with MySQL
 - 🔗 [🛫 Plane Ticket CLI App] – Java console-based seat booking system
 - 🔗 [🎉 Event Booking API (Node.js)] – RESTful backend with JWT + MongoDB
