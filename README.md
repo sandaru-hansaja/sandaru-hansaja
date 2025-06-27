@@ -1,7 +1,5 @@
 👋 Hi, I'm Sandaru Hansaja!
 
-🎓 Second-year Software Engineering Student
-
 💻 Passionate about coding, problem-solving, and building innovative software solutions
 
 🌱 Always learning new technologies and improving my skills
@@ -17,6 +15,18 @@
 <p align="center"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> </a> </p>
 🛠️ Development & Tools
 <p align="center"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> </a> </p>
+
+## 💼 Portfolio Projects
+
+Here are a few of my top projects you can check out:
+
+- 🔗 [🎬 Movie Ticketing System] – Full-stack Spring Boot + React + multithreading
+- 🔗 [👨‍💼 Employee Management (C#)] – Desktop CRUD app with MySQL
+- 🔗 [🛫 Plane Ticket CLI App] – Java console-based seat booking system
+- 🔗 [🎉 Event Booking API (Node.js)] – RESTful backend with JWT + MongoDB
+
+📁 Explore more projects at: [https://github.com/sandaru-hansaja](https://github.com/sandaru-hansaja)
+
 
 
 📊 GitHub Stats
